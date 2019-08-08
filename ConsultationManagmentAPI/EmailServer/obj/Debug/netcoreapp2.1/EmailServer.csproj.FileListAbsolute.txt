@@ -1,0 +1,10 @@
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\bin\Debug\netcoreapp2.1\EmailServer.deps.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\bin\Debug\netcoreapp2.1\EmailServer.runtimeconfig.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\bin\Debug\netcoreapp2.1\EmailServer.runtimeconfig.dev.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\bin\Debug\netcoreapp2.1\EmailServer.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\bin\Debug\netcoreapp2.1\EmailServer.pdb
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\obj\Debug\netcoreapp2.1\EmailServer.csproj.CoreCompileInputs.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\obj\Debug\netcoreapp2.1\EmailServer.AssemblyInfoInputs.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\obj\Debug\netcoreapp2.1\EmailServer.AssemblyInfo.cs
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\obj\Debug\netcoreapp2.1\EmailServer.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailServer\obj\Debug\netcoreapp2.1\EmailServer.pdb

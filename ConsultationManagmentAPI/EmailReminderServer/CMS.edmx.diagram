@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4de4d1a2b7c74cf7b01537d09f257edc" Name="Diagram1">
+        <EntityTypeShape EntityType="CMSModel.C__EFMigrationsHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetRoleClaim" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetRole" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetUser" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.AspNetUserToken" Width="1.5" PointX="5.25" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.IssueType" Width="1.5" PointX="5.25" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.Request" Width="1.5" PointX="7.5" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CMSModel.TimeSlot" Width="1.5" PointX="5.25" PointY="19" IsExpanded="true" />
+        <AssociationConnector Association="CMSModel.FK_AspNetRoleClaims_AspNetRoles_RoleId" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_AspNetUserClaims_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_AspNetUserLogins_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_AspNetUserTokens_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_Requests_AspNetUsers_FromUserID" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_Requests_AspNetUsers_ToUserID" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_TimeSlots_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_Requests_IssueTypes_IssueTypeID" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.FK_Requests_TimeSlots_TimeSlotID" ManuallyRouted="false" />
+        <AssociationConnector Association="CMSModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

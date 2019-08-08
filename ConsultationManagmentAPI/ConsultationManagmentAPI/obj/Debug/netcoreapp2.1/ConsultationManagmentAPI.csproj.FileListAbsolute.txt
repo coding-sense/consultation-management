@@ -1,0 +1,14 @@
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\bin\Debug\netcoreapp2.1\ConsultationManagmentAPI.deps.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\bin\Debug\netcoreapp2.1\ConsultationManagmentAPI.runtimeconfig.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\bin\Debug\netcoreapp2.1\ConsultationManagmentAPI.runtimeconfig.dev.json
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\bin\Debug\netcoreapp2.1\ConsultationManagmentAPI.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\bin\Debug\netcoreapp2.1\ConsultationManagmentAPI.pdb
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.csprojAssemblyReference.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.csproj.CoreCompileInputs.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.RazorAssemblyInfo.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.RazorAssemblyInfo.cs
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.AssemblyInfoInputs.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.AssemblyInfo.cs
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\ConsultationManagmentAPI\obj\Debug\netcoreapp2.1\ConsultationManagmentAPI.pdb

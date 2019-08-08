@@ -1,0 +1,12 @@
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EmailReminderServer.exe.config
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EmailReminderServer.exe
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EmailReminderServer.pdb
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EntityFramework.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EntityFramework.xml
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\obj\Debug\EmailReminderServer.csprojAssemblyReference.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\obj\Debug\EmailReminderServer.csproj.CoreCompileInputs.cache
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\obj\Debug\EmailReminderServer.csproj.CopyComplete
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\obj\Debug\EmailReminderServer.exe
+C:\Users\rehmanwa\source\repos\ConsultationManagmentAPI\EmailReminderServer\obj\Debug\EmailReminderServer.pdb
