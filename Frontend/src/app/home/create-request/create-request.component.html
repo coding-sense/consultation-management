@@ -1,0 +1,53 @@
+<div>
+    <h2>Create new request</h2>
+    <div *ngIf="errors.length > 0">
+            <div class="alert alert-warning" role="alert"   *ngFor="let error of errors" >
+                  {{error}}
+                  </div>
+    </div>
+<form [formGroup]="requestService.formModel" autocomplete="off" (submit)="onSubmit()">
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="teacher">Teacher</label>
+        
+            <select formControlName="Teacher" id="teacher" class="form-control" (change)="onChange($event.target.value)">
+                    <option *ngFor="let teacher of teachers; let i = index" [value]="teachers[i].id">
+                      {{teachers[i].firstName}}  {{teachers[i].lastName}}
+                    </option>
+                  </select>
+                    <label class="text-danger" *ngIf="requestService.formModel.get('Teacher').errors?.required">This field is mandatory.</label>
+          </div>
+          <div class="form-group col-md-6">
+                <label for="timeslot">Time Slot</label>
+            
+                <select formControlName="TimeSlot" id="timeslot" class="form-control"  (change)="onChangeTimeSlot()">
+                        <option *ngFor="let timeslot of timeslots; let i = index" [value]="timeslots[i].timeSlotID">
+                          {{timeslots[i].dateString}}  {{timeslots[i].timeFrom}} - {{timeslots[i].timeTo}}
+                        </option>
+                      </select>
+                        <label class="text-danger" *ngIf="requestService.formModel.get('TimeSlot').errors?.required">This field is mandatory.</label>
+              </div>
+        </div>
+        <div class="form-group">
+                        <label for="issueType">Issue Type</label>
+                    
+                        <select formControlName="IssueType" id="issueType" class="form-control" >
+                                <option *ngFor="let issueType of issueTypes; let i = index" [value]="issueTypes[i].issueTypeID">
+                                  {{issueTypes[i].name}}
+                                </option>
+                              </select>
+                                <label class="text-danger" *ngIf="requestService.formModel.get('IssueType').errors?.required">This field is mandatory.</label>
+        </div>
+        <div class="form-group">
+          <label for="issue">Describe you issue</label>
+          <textarea class="form-control" id="issue"  formControlName="Issue"  rows="3"></textarea>
+          <label class="text-danger" *ngIf="requestService.formModel.get('Issue').errors?.required">This field is mandatory.</label>
+        </div>
+        <div class="form-row">
+                <div class="form-group col-md-8 offset-md-2">
+                  <button type="submit" class="btn btn-lg btn-block" [disabled]="!requestService.formModel.valid">Create New Request</button>
+                </div>
+              </div>
+      </form>
+    
+    </div>
